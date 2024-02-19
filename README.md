@@ -6,7 +6,7 @@ This project focuses on obtaining a clear image by filtering out noise types lik
 # Embedded MicroController.
 
 <p align="center">
-  <img src="blockdaigram.png" alt="Image 1" width = "500" height = "300" />
+  <img src="blockdiagram.png" alt="Image 1" width = "500" height = "300" />
 </p>
 
 To achieve a clear image, we start by denoising input images containing various noise types. The denoising process involves applying appropriate digital filters, resulting in a denoised image "Q." The subsequent encryption process utilizes Bitwise XOR and Discrete Fourier Transform (DFT), introducing an additional encryption stage for heightened security.
@@ -41,7 +41,7 @@ To achieve a clear image, we start by denoising input images containing various 
 
      
 <p align="center">
-  <img src="encyrp.png" alt="Image 1"  height = "300" />
+  <img src="encryption.png" alt="Image 1"  height = "300" />
 </p>
 
 ### Security
